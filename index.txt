@@ -15,7 +15,7 @@
                             System kontroli wersji (ang. system kontroli wersji / rewizji) - oprogramowanie służące do śledzenia zmian głównie wag kodzie źródłowym oraz Pomocy programistom wag łączeniu zmian dokonanych wag plikach przez wiele osob wag różnych momentach czasowych.
                           </div>
                         <footer class="panel-footer">
-                               
+                               <a href="http://pl.wikipedia.org/wiki/System_kontroli_wersji"> Wikipedia </ a>
                         </footer>
                 </section>
                 <section id="section2" class="panel panel-default">
