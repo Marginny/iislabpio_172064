@@ -15,8 +15,7 @@
                             Section1 content
                           </div>
                         <footer class="panel-footer">
-                               System kontroli wersji (ang. system kontroli wersji / rewizji) - oprogramowanie służące do śledzenia zmian głównie wag kodzie źródłowym oraz Pomocy programistom wag łączeniu zmian dokonanych wag plikach przez wiele osob wag różnych momentach czasowych.
-
+                               
                         </footer>
                 </section>
                 <section id="section2" class="panel panel-default">
